@@ -1,0 +1,4 @@
+A1 = input("What is your first name?")
+A2 = input("What is your last name?")
+print("Hello")
+print(A1 + A2)
